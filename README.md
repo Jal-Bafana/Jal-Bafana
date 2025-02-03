@@ -10,3 +10,8 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jal-Bafana)](https://git.io/streak-stats)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jal-Bafana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jal-Bafana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jal-Bafana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
