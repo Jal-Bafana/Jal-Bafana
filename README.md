@@ -1,12 +1,12 @@
-<h1 align="center">📚 Jal's Library</h1>
+<h1> Jal's Library</h1>
 
-<p align="center">Welcome to my developer profile! Passionate about building impactful software with clean code, solid architecture, and creative designs.</p>
+<p>Random Wannabe Guy who is Probably Googling Errors Right Now</p>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack (Languages That Broke Me Emotionally)
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -25,18 +25,18 @@
 
 ---
 
-## 📈 GitHub Stats
+## Stats (Proof I Touch My Keyboard and Plus they also make Me Look Cool)
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats-two-neon.vercel.app?user=Jal-Bafana&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jal-Bafana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me (Questionable Life Choice but.... If you want to Stalk Me (Professionally)💙)
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/jalbafana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
