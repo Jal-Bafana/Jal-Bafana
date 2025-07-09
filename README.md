@@ -1,5 +1,9 @@
 <h1> Jal's Library</h1>
-
+<p>
+  <a href="https://jalbafana.vercel.app" target="_blank" style="text-decoration: none; font-weight: bold; color: #007acc;">
+    🔗 Portfolio
+  </a>
+</p>
 <p>Random Wannabe Guy who is Probably Googling Errors Right Now</p>
 
 ---
@@ -42,8 +46,5 @@
   </a>
   <a href="https://jalbafana.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:bafana.jal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
